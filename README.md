@@ -7,6 +7,7 @@ A simple web application for managing your to do list, built using HTML5, CSS3 a
 * Items are stored on localstorage, and are thus persistent until you delete them;
 * You can also filter items according to their status
 <img src="https://github.com/PhethulwaziD/todolist/blob/main/resources/todolisttwo.png"/>
+
 ## Design
-This project is built on pure CSS and JavaScript
+* This project is built on pure CSS and JavaScript
 <img src="https://github.com/PhethulwaziD/todolist/blob/main/resources/todo.png"/>
